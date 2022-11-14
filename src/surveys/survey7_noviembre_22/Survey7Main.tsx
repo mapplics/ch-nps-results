@@ -1,6 +1,7 @@
 import AnswersTable from "./AnswersTable";
-import GraphAnswer2 from "./GraphAnswer2";
+import GraphCategories from "./GraphCategories";
 import GraphScore from "./GraphScore";
+import GraphSubcategories from "./GraphSubcategories";
 import { Nps7Answer } from "./Interfaces";
 
 const answers: Nps7Answer[] = require("./nps_noviembre_2022.json");
@@ -30,12 +31,6 @@ const Survey7Main = () => {
                 <div className="w-full pb-4 text-2xl font-bold text-gray-700">
                     CODERHOUSE APP - NPS Noviembre 2022
                 </div>
-                {/*
-        <div className="w-full py-0.5 text-sm font-normal text-gray-700 text-justify">
-          - Según tu experiencia usando la App, ¿qué tan probable es que se la
-          recomiendes a otro estudiante?
-        </div>
-        */}
 
                 <table className=" text-sm text-left text-gray-700 sm:col-span-4 col-span-12 sm:col-start-8 col-start-1">
                     <tbody>
@@ -116,9 +111,13 @@ const Survey7Main = () => {
                     experiencia?
                 </p>
                 <div className="col-span-12 h-96">
-                    <GraphAnswer2 answers={answered} countTotal={responseCount} />
+                    <GraphCategories answers={answered} countTotal={responseCount} />
                 </div>
             </div>
+
+            <div className="w-full h-px mb-6 bg-gray-200"></div>
+
+            <GraphSubcategories answers={answered} countTotal={responseCount} />
 
             <div className="w-full h-px mb-6 bg-gray-200"></div>
 

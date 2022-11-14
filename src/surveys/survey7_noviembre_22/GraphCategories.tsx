@@ -17,7 +17,7 @@ interface CategoryI {
     total: number;
 };
 
-const GraphAnswer2 = (props: GraphProps) => {
+const GraphCategories = (props: GraphProps) => {
     const categories: CategoryI[] = [];
 
     props.answers.forEach((e) => {
@@ -103,7 +103,7 @@ const GraphAnswer2 = (props: GraphProps) => {
                 />
                 <XAxis
                     type="number"
-                    dataKey="count"
+                    dataKey="total"
                     domain={[0, Math.round((categories[0].total * 10) / 7)]}
                 />
             </BarChart>
@@ -111,4 +111,4 @@ const GraphAnswer2 = (props: GraphProps) => {
     );
 };
 
-export default GraphAnswer2;
+export default GraphCategories;

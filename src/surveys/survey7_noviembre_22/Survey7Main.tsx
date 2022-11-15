@@ -51,9 +51,11 @@ const Survey7Main = () => {
                         </tr>
                     </tbody>
                 </table>
+                {/*
                 <div className="absolute right-0 top-0 text-xs">
                     Actualizado: 14/10/2022 22:20
                 </div>
+                 */}
             </div>
 
             <div className="w-full h-px bg-gray-200"></div>

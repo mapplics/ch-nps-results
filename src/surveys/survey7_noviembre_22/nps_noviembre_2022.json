@@ -3603,5 +3603,1036 @@
         "answer": "Estaría bueno poder acceder al coderask desde la app. Al menos yo no lo encontré.",
         "id": "6373ad0dde52b32dd6a434d3",
         "createdAt": "2022-11-15T15:15:25.540Z"
+    },
+    {
+        "score": 8,
+        "category": "Nada, me gusta",
+        "subcategories": [],
+        "answer": "Que sea mas intuitiva",
+        "id": "6373ad921c0e159cad4bb3c1",
+        "createdAt": "2022-11-15T15:17:38.032Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373af60de52b32dd6a4739b",
+        "createdAt": "2022-11-15T15:25:20.474Z"
+    },
+    {
+        "score": 7,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "A veces no puedo ingresar",
+            "Tarda mucho en cargar",
+            "Se cierra sola la sesión"
+        ],
+        "answer": "Mejorar la carga de la app",
+        "id": "6373b044de52b32dd6a49094",
+        "createdAt": "2022-11-15T15:29:08.317Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373b0c01c0e159cad4c0237",
+        "createdAt": "2022-11-15T15:31:12.090Z"
+    },
+    {
+        "score": 9,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "Mejorar el chat.",
+        "id": "6373b0d81c0e159cad4c049e",
+        "createdAt": "2022-11-15T15:31:36.528Z"
+    },
+    {
+        "score": 9,
+        "category": "Encuentro lo que necesito",
+        "subcategories": [],
+        "answer": "Personalmente, muy co forme. Súper intuitiva!",
+        "id": "6373b0e7de52b32dd6a49d8b",
+        "createdAt": "2022-11-15T15:31:51.559Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373b19e1c0e159cad4c1329",
+        "createdAt": "2022-11-15T15:34:54.978Z"
+    },
+    {
+        "score": 10,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": ".",
+        "id": "6373b289de52b32dd6a4c2d7",
+        "createdAt": "2022-11-15T15:38:49.521Z"
+    },
+    {
+        "score": 10,
+        "category": "Encuentro lo que necesito",
+        "subcategories": [],
+        "answer": "Mi experiencia fue muy cómoda, excelente!",
+        "id": "6373b2cbde52b32dd6a4c9aa",
+        "createdAt": "2022-11-15T15:39:55.814Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373b4bfde52b32dd6a4f681",
+        "createdAt": "2022-11-15T15:48:15.559Z"
+    },
+    {
+        "score": 10,
+        "category": "Encuentro lo que necesito",
+        "subcategories": [],
+        "answer": "Por el momento estoy conforme",
+        "id": "6373b590de52b32dd6a50d24",
+        "createdAt": "2022-11-15T15:51:44.060Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373b5d8de52b32dd6a514d1",
+        "createdAt": "2022-11-15T15:52:56.913Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373b6a81c0e159cad4c83e6",
+        "createdAt": "2022-11-15T15:56:24.082Z"
+    },
+    {
+        "score": 10,
+        "category": "Entregar desafíos y ver correcciones",
+        "subcategories": [],
+        "answer": "Todo bien",
+        "id": "6373b787de52b32dd6a53b82",
+        "createdAt": "2022-11-15T16:00:07.216Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373b7bcde52b32dd6a53f77",
+        "createdAt": "2022-11-15T16:01:00.658Z"
+    },
+    {
+        "score": 10,
+        "category": "Encuentro lo que necesito",
+        "subcategories": [],
+        "answer": "Sobre la app está bien, sobre la implementación de coderask no estoy tan conforme.",
+        "id": "6373b7d11c0e159cad4c9b88",
+        "createdAt": "2022-11-15T16:01:21.982Z"
+    },
+    {
+        "score": 8,
+        "category": "Otros",
+        "subcategories": [],
+        "answer": "No es un tema de la App sino de la metodología de corrección. Ponen un límite de entrega y luego una semana para poder hacer los cambios que sugieren en las correcciones. Entregue el martes pasado, a tiempo, y hasta el día de hoy no me corrigieron… y justamente hoy a las 19 hs vence e plazo para hacer los cambios que me sugieran en las correcciones. Posiblemente no tenga que hacer un cambio pero evidentemente no funciona bien la cosa se esta forma. O tendría que haber más gente para corregir o deberían extender el plazo para hacer las correcciones.",
+        "id": "6373b7f01c0e159cad4c9da5",
+        "createdAt": "2022-11-15T16:01:52.889Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373b8441c0e159cad4ca832",
+        "createdAt": "2022-11-15T16:03:16.575Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373b9661c0e159cad4cc15d",
+        "createdAt": "2022-11-15T16:08:06.568Z"
+    },
+    {
+        "score": 9,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "Especificar donde está cada sección",
+        "id": "6373b98a1c0e159cad4cc44f",
+        "createdAt": "2022-11-15T16:08:42.706Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373b9a3de52b32dd6a567a3",
+        "createdAt": "2022-11-15T16:09:07.769Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373ba36de52b32dd6a5740e",
+        "createdAt": "2022-11-15T16:11:34.427Z"
+    },
+    {
+        "score": 9,
+        "category": "Encuentro lo que necesito",
+        "subcategories": [],
+        "answer": "Lo unico que falta es poder acceder a CoderAsk desde la app del celular.",
+        "id": "6373bb401c0e159cad4ce6f6",
+        "createdAt": "2022-11-15T16:16:00.288Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373bbd01c0e159cad4cf20c",
+        "createdAt": "2022-11-15T16:18:24.013Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373bc681c0e159cad4cfcfb",
+        "createdAt": "2022-11-15T16:20:56.075Z"
+    },
+    {
+        "score": 9,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "Todavía no la use lo suficiente.",
+        "id": "6373bcfc1c0e159cad4d080d",
+        "createdAt": "2022-11-15T16:23:24.422Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373be071c0e159cad4d17b6",
+        "createdAt": "2022-11-15T16:27:51.571Z"
+    },
+    {
+        "score": 8,
+        "category": "Nada, me gusta",
+        "subcategories": [],
+        "answer": "la app funciona joya",
+        "id": "6373bf47de52b32dd6a5d307",
+        "createdAt": "2022-11-15T16:33:11.231Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373bf55cd6172e5b7a11bf5",
+        "createdAt": "2022-11-15T16:33:25.654Z"
+    },
+    {
+        "score": 10,
+        "category": "Puedo conocer mi asistencia",
+        "subcategories": [],
+        "answer": "Perfecto",
+        "id": "6373c0561c0e159cad4d3cfd",
+        "createdAt": "2022-11-15T16:37:42.321Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373c1441c0e159cad4d4bb3",
+        "createdAt": "2022-11-15T16:41:40.378Z"
+    },
+    {
+        "score": 2,
+        "category": "Otros",
+        "subcategories": [],
+        "answer": "Tarda en cargar",
+        "id": "6373c1ecde52b32dd6a5fd80",
+        "createdAt": "2022-11-15T16:44:28.881Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373c3d9de52b32dd6a62487",
+        "createdAt": "2022-11-15T16:52:41.770Z"
+    },
+    {
+        "score": 10,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "Decir la terminología en inglés a medida que nos van enseñando",
+        "id": "6373c4161c0e159cad4d8c98",
+        "createdAt": "2022-11-15T16:53:42.402Z"
+    },
+    {
+        "score": 10,
+        "category": "Encuentro lo que necesito",
+        "subcategories": [],
+        "answer": "Está todo ok",
+        "id": "6373c4c9de52b32dd6a634de",
+        "createdAt": "2022-11-15T16:56:41.952Z"
+    },
+    {
+        "score": 3,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "A veces no puedo ingresar",
+            "Tarda mucho en cargar"
+        ],
+        "answer": "Es complejo encontrar algunas cosas, no es muy intuitiva",
+        "id": "6373c5301c0e159cad4d9f12",
+        "createdAt": "2022-11-15T16:58:24.214Z"
+    },
+    {
+        "score": 8,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "Tarda mucho en cargar",
+            "A veces no puedo ingresar"
+        ],
+        "answer": "En general es muy lenta y es mejor ir a la página para visualizar todo con mejor claridad , por ejemplo cuando buscamos nuestro tutor",
+        "id": "6373c55d1c0e159cad4da284",
+        "createdAt": "2022-11-15T16:59:09.918Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373c6701c0e159cad4db8d1",
+        "createdAt": "2022-11-15T17:03:44.581Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373c7cf1c0e159cad4dd420",
+        "createdAt": "2022-11-15T17:09:35.692Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373c868de52b32dd6a67f00",
+        "createdAt": "2022-11-15T17:12:08.537Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373c8921c0e159cad4de3cb",
+        "createdAt": "2022-11-15T17:12:50.054Z"
+    },
+    {
+        "score": 4,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "Tarda en cargar la asistencia o no la carga",
+            "Se cierra sola la sesión",
+            "La pantalla me da error"
+        ],
+        "answer": "Mejorar las demoras cuando carga la aplicación, y las demoras en dar asistencias o ver algún comentario de desafío",
+        "id": "6373ca7ede52b32dd6a69f26",
+        "createdAt": "2022-11-15T17:21:02.585Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373cdd71c0e159cad4e367e",
+        "createdAt": "2022-11-15T17:35:19.268Z"
+    },
+    {
+        "score": 8,
+        "category": "Nada, me gusta",
+        "subcategories": [],
+        "answer": "B",
+        "id": "6373cf181c0e159cad4e4e07",
+        "createdAt": "2022-11-15T17:40:40.344Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373cf37de52b32dd6a6eec8",
+        "createdAt": "2022-11-15T17:41:11.362Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373cfbcde52b32dd6a6f8e7",
+        "createdAt": "2022-11-15T17:43:24.911Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373d010de52b32dd6a6fedb",
+        "createdAt": "2022-11-15T17:44:48.666Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373d1411c0e159cad4e72a5",
+        "createdAt": "2022-11-15T17:49:53.363Z"
+    },
+    {
+        "score": 8,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "Es por otra razón"
+        ],
+        "answer": "Últimamente.ejoraron bastante pero en la plataforma suele haber más información que en la app como que siempre recurro más a la plataforma que a la app y además a veces es muy lento cuando cargan los resultados",
+        "id": "6373d1e31c0e159cad4e7fc9",
+        "createdAt": "2022-11-15T17:52:35.371Z"
+    },
+    {
+        "score": 10,
+        "category": "Puedo chatear o hacer consultas",
+        "subcategories": [],
+        "answer": "Acceder a las clases grabadas desde la app",
+        "id": "6373d2f81c0e159cad4e9207",
+        "createdAt": "2022-11-15T17:57:12.078Z"
+    },
+    {
+        "score": 10,
+        "category": "Puedo conocer mi asistencia",
+        "subcategories": [],
+        "answer": "En nada",
+        "id": "6373d3b81c0e159cad4ea04a",
+        "createdAt": "2022-11-15T18:00:24.350Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373d4371c0e159cad4eb8f4",
+        "createdAt": "2022-11-15T18:02:31.130Z"
+    },
+    {
+        "score": 8,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "Tarda mucho en cargar",
+            "A veces no puedo ingresar"
+        ],
+        "answer": "Hacerla más estable.",
+        "id": "6373d49895a2ae19d6ff9256",
+        "createdAt": "2022-11-15T18:04:08.315Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373d4d1de52b32dd6a76ee6",
+        "createdAt": "2022-11-15T18:05:05.441Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373d4dfee489611bee749f9",
+        "createdAt": "2022-11-15T18:05:19.848Z"
+    },
+    {
+        "score": 7,
+        "category": "No me llegan las notificaciones",
+        "subcategories": [
+            "Es por otra razón"
+        ],
+        "answer": "ninguna",
+        "id": "6373d598ee489611bee75020",
+        "createdAt": "2022-11-15T18:08:24.951Z"
+    },
+    {
+        "score": 6,
+        "category": "No me llegan las notificaciones",
+        "subcategories": [
+            "Ninguna llega"
+        ],
+        "answer": "Deberia de llegar las notificaciones sobre asistencias, chat, clases, etc",
+        "id": "6373d70595a2ae19d6ffb3c1",
+        "createdAt": "2022-11-15T18:14:29.796Z"
+    },
+    {
+        "score": 8,
+        "category": "No puedo ver y entregar mis desafíos",
+        "subcategories": [
+            "No veo las devoluciones"
+        ],
+        "answer": "Podrían mejorar en el tiempo de corrección, ya van 3 semanas de una entrega y aún no recibo devolución",
+        "id": "6373d71c95a2ae19d6ffb4c7",
+        "createdAt": "2022-11-15T18:14:52.133Z"
+    },
+    {
+        "score": 10,
+        "category": "Entregar desafíos y ver correcciones",
+        "subcategories": [],
+        "answer": "En ninguna",
+        "id": "6373d72b1c0e159cad4ee503",
+        "createdAt": "2022-11-15T18:15:07.363Z"
+    },
+    {
+        "score": 9,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "Notificaciones",
+        "id": "6373d80295a2ae19d6ffc4f2",
+        "createdAt": "2022-11-15T18:18:42.570Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373d89295a2ae19d6ffcf24",
+        "createdAt": "2022-11-15T18:21:06.871Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373d9211c0e159cad4f09bf",
+        "createdAt": "2022-11-15T18:23:29.628Z"
+    },
+    {
+        "score": 10,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "..",
+        "id": "6373d94895a2ae19d6ffdc3d",
+        "createdAt": "2022-11-15T18:24:08.515Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373da7f95a2ae19d6fff561",
+        "createdAt": "2022-11-15T18:29:19.182Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373dc3395a2ae19d600137c",
+        "createdAt": "2022-11-15T18:36:35.220Z"
+    },
+    {
+        "score": 10,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "En el funcionamiento del chat",
+        "id": "6373dea61c0e159cad4f70d7",
+        "createdAt": "2022-11-15T18:47:02.590Z"
+    },
+    {
+        "score": 3,
+        "category": "No puedo hacer algo que en la web sí",
+        "subcategories": [
+            "Es por otra razón"
+        ],
+        "answer": "notificación desafíos",
+        "id": "6373dfe01c0e159cad4f8744",
+        "createdAt": "2022-11-15T18:52:16.769Z"
+    },
+    {
+        "score": 10,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "Creo que cumple con todas las funciones básicas, es súper fácil de usar y entender.",
+        "id": "6373e0411c0e159cad4f8b6b",
+        "createdAt": "2022-11-15T18:53:53.164Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e0851c0e159cad4f8f90",
+        "createdAt": "2022-11-15T18:55:01.098Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e2641c0e159cad4fafa7",
+        "createdAt": "2022-11-15T19:03:00.668Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e2b195a2ae19d60074ad",
+        "createdAt": "2022-11-15T19:04:17.495Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e2b9a101451185ca56f1",
+        "createdAt": "2022-11-15T19:04:25.448Z"
+    },
+    {
+        "score": 10,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "Todo excelente",
+        "id": "6373e3801c0e159cad4fbec2",
+        "createdAt": "2022-11-15T19:07:44.811Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e3c295a2ae19d60080a5",
+        "createdAt": "2022-11-15T19:08:50.097Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e4a895a2ae19d6008f5a",
+        "createdAt": "2022-11-15T19:12:40.648Z"
+    },
+    {
+        "score": 8,
+        "category": "Nada, me gusta",
+        "subcategories": [],
+        "answer": "A",
+        "id": "6373e4d31c0e159cad4fd51c",
+        "createdAt": "2022-11-15T19:13:23.950Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e52b1c0e159cad4fd96a",
+        "createdAt": "2022-11-15T19:14:51.511Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e55695a2ae19d60097d2",
+        "createdAt": "2022-11-15T19:15:34.336Z"
+    },
+    {
+        "score": 6,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "Tarda mucho en cargar",
+            "A veces no puedo ingresar"
+        ],
+        "answer": "Evitar caídas, que la información sea la misma que en la página, he tenido que entrar a ls página para revisar y confirmar información que no estaba actualizada como cancelaciones de clases y nuevas fechas y por lo mismo nuevas fechas de entregas",
+        "id": "6373e5e51c0e159cad4fe43a",
+        "createdAt": "2022-11-15T19:17:57.198Z"
+    },
+    {
+        "score": 5,
+        "category": "No puedo hacer algo que en la web sí",
+        "subcategories": [
+            "Es por otra razón"
+        ],
+        "answer": "Volver a los desafíos y los desafíos complementarios, pagamos para tener una plataforma que enseñe y los profesores no saben explicar bien",
+        "id": "6373e6251c0e159cad4fe99d",
+        "createdAt": "2022-11-15T19:19:01.449Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e65995a2ae19d600aa0c",
+        "createdAt": "2022-11-15T19:19:53.680Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e78295a2ae19d600bd1d",
+        "createdAt": "2022-11-15T19:24:50.884Z"
+    },
+    {
+        "score": 10,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "Lo único que puedo resaltar es que no me llegan todos los mensajes del chat, solamente algunos. Pero en general está muy buena la app!",
+        "id": "6373e79c95a2ae19d600bdc3",
+        "createdAt": "2022-11-15T19:25:16.157Z"
+    },
+    {
+        "score": 9,
+        "category": "Es fácil de usar",
+        "subcategories": [],
+        "answer": "No encontré la opción chatear con un tutor en la app, o tal vez no la vi. El resto Ok",
+        "id": "6373e7b61c0e159cad50080e",
+        "createdAt": "2022-11-15T19:25:42.675Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e8bb6c0e6b214d0ebd1c",
+        "createdAt": "2022-11-15T19:30:03.576Z"
+    },
+    {
+        "score": 9,
+        "category": "Puedo conocer mi asistencia",
+        "subcategories": [],
+        "answer": "…",
+        "id": "6373e8e16c0e6b214d0ebfa5",
+        "createdAt": "2022-11-15T19:30:41.971Z"
+    },
+    {
+        "score": 2,
+        "category": "Otros",
+        "subcategories": [],
+        "answer": "No puedo responder una devolución de entrega",
+        "id": "6373e93b6c0e6b214d0ec7e3",
+        "createdAt": "2022-11-15T19:32:11.813Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373e9ce95a2ae19d600e0ad",
+        "createdAt": "2022-11-15T19:34:38.311Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373ebcc6c0e6b214d0ef647",
+        "createdAt": "2022-11-15T19:43:08.419Z"
+    },
+    {
+        "score": 10,
+        "category": "Me llegan notificaciones",
+        "subcategories": [],
+        "answer": "La verdad para mí está está excelente, así como está, tiene todo lo necesario y responde fenomenal.",
+        "id": "6373ebfd6c0e6b214d0ef97f",
+        "createdAt": "2022-11-15T19:43:57.147Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373ec546c0e6b214d0efe7f",
+        "createdAt": "2022-11-15T19:45:24.068Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373ed3a95a2ae19d601177c",
+        "createdAt": "2022-11-15T19:49:14.495Z"
+    },
+    {
+        "score": 8,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "Tarda mucho en cargar",
+            "Se cierra sola la sesión",
+            "A veces no puedo ingresar"
+        ],
+        "answer": "Es muy lenta y a veces se cae",
+        "id": "6373f01c95a2ae19d6014519",
+        "createdAt": "2022-11-15T20:01:32.293Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f0386c0e6b214d0f4651",
+        "createdAt": "2022-11-15T20:02:00.044Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f1206c0e6b214d0f550a",
+        "createdAt": "2022-11-15T20:05:52.961Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f2356c0e6b214d0f69b6",
+        "createdAt": "2022-11-15T20:10:29.737Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f3706c0e6b214d0f7ef5",
+        "createdAt": "2022-11-15T20:15:44.182Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f4316c0e6b214d0f8cd8",
+        "createdAt": "2022-11-15T20:18:57.517Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f43395a2ae19d6018b73",
+        "createdAt": "2022-11-15T20:18:59.089Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f6156c0e6b214d0fade5",
+        "createdAt": "2022-11-15T20:27:01.344Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f67295a2ae19d601b0bd",
+        "createdAt": "2022-11-15T20:28:34.393Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f77995a2ae19d601c41a",
+        "createdAt": "2022-11-15T20:32:57.544Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f7de6c0e6b214d0fd379",
+        "createdAt": "2022-11-15T20:34:38.432Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f7e76c0e6b214d0fd419",
+        "createdAt": "2022-11-15T20:34:47.172Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f80b6c0e6b214d0fd66b",
+        "createdAt": "2022-11-15T20:35:23.765Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f85395a2ae19d601d071",
+        "createdAt": "2022-11-15T20:36:35.592Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373f8aa6c0e6b214d0fe0bf",
+        "createdAt": "2022-11-15T20:38:02.992Z"
+    },
+    {
+        "score": 10,
+        "category": "Puedo ingresar a las clases",
+        "subcategories": [],
+        "answer": ".",
+        "id": "6373f9b66c0e6b214d0ff976",
+        "createdAt": "2022-11-15T20:42:30.818Z"
+    },
+    {
+        "score": 8,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "Es por otra razón",
+            "A veces no puedo ingresar"
+        ],
+        "answer": "No me dejo aubir una entrega, no habia forma, ni por la app ni la web",
+        "id": "6373fb016c0e6b214d1011a7",
+        "createdAt": "2022-11-15T20:48:01.082Z"
+    },
+    {
+        "score": 7,
+        "category": "Hay caídas o lentitud en la App",
+        "subcategories": [
+            "Tarda mucho en cargar",
+            "Tarda en cargar la asistencia o no la carga"
+        ],
+        "answer": "",
+        "id": "6373fbaa6c0e6b214d102025",
+        "createdAt": "2022-11-15T20:50:50.089Z"
+    },
+    {
+        "score": 9,
+        "category": "Me llegan notificaciones",
+        "subcategories": [],
+        "answer": "Me parece excelente la interfaz de la aplicacion.",
+        "id": "6373fc056c0e6b214d102b81",
+        "createdAt": "2022-11-15T20:52:21.027Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373fc2f95a2ae19d6022309",
+        "createdAt": "2022-11-15T20:53:03.334Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373fc4795a2ae19d6022565",
+        "createdAt": "2022-11-15T20:53:27.017Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373fcdb95a2ae19d6023155",
+        "createdAt": "2022-11-15T20:55:55.691Z"
+    },
+    {
+        "score": 9,
+        "category": "Encuentro lo que necesito",
+        "subcategories": [],
+        "answer": "Muchos perdimos el curso de presupuesto porque la app que usaron para el viví solo permitía hasta 100 ingresantes",
+        "id": "6373fce895a2ae19d602321c",
+        "createdAt": "2022-11-15T20:56:08.030Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373fdd46c0e6b214d10510b",
+        "createdAt": "2022-11-15T21:00:04.505Z"
+    },
+    {
+        "score": 10,
+        "category": "Puedo conocer mi asistencia",
+        "subcategories": [],
+        "answer": "está muy bien así",
+        "id": "6373fe2095a2ae19d6024c0c",
+        "createdAt": "2022-11-15T21:01:20.504Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373fe8395a2ae19d6025391",
+        "createdAt": "2022-11-15T21:02:59.497Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373fec56c0e6b214d106522",
+        "createdAt": "2022-11-15T21:04:05.108Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373fed16c0e6b214d106655",
+        "createdAt": "2022-11-15T21:04:17.990Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373ff016c0e6b214d106ad5",
+        "createdAt": "2022-11-15T21:05:05.505Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373ff7c95a2ae19d6026ba1",
+        "createdAt": "2022-11-15T21:07:08.888Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6373ffe26c0e6b214d107e49",
+        "createdAt": "2022-11-15T21:08:50.622Z"
+    },
+    {
+        "score": 8,
+        "category": "Nada, me gusta",
+        "subcategories": [],
+        "answer": "Muy conforme.",
+        "id": "637400706c0e6b214d108895",
+        "createdAt": "2022-11-15T21:11:12.828Z"
+    },
+    {
+        "score": 1,
+        "category": "Es difícil encontrar lo que busco",
+        "subcategories": [
+            "Dónde ver mis asistencias",
+            "Dónde valorar la clase",
+            "Dónde ver/entregar desafíos"
+        ],
+        "answer": "Con la nueva modalidad no puedo entregar los trabajos prácticos para que lo vea mi tutor corrector. Además, tengo asignada una tutora que no aparece en la búsqueda del chat. Muy desconforme con la nueva modalidad. \nEl coderask no funciona.",
+        "id": "637400d895a2ae19d60287ad",
+        "createdAt": "2022-11-15T21:12:56.554Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6374018695a2ae19d6029625",
+        "createdAt": "2022-11-15T21:15:50.042Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "637401d56c0e6b214d10a76f",
+        "createdAt": "2022-11-15T21:17:09.128Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "637403316c0e6b214d10cc39",
+        "createdAt": "2022-11-15T21:22:57.023Z"
+    },
+    {
+        "score": 5,
+        "category": "Es difícil encontrar lo que busco",
+        "subcategories": [
+            "Dónde está la carpeta de la Comisión",
+            "Cómo chatear con mi tutor",
+            "Dónde valorar la clase",
+            "Dónde ver la grabación",
+            "Dónde ver/entregar desafíos"
+        ],
+        "answer": ".",
+        "id": "637403316c0e6b214d10cc5c",
+        "createdAt": "2022-11-15T21:22:57.594Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6374038795a2ae19d602c9ee",
+        "createdAt": "2022-11-15T21:24:23.945Z"
+    },
+    {
+        "score": 10,
+        "category": "Encuentro lo que necesito",
+        "subcategories": [],
+        "answer": "Me gustaría que fuera un poco más rápida. Creí que era mi celular, pero lo cambié por uno mucho mejor y sigue siendo lenta. Tardan mucho en cargar las cosas.",
+        "id": "6374043e6c0e6b214d10e6a4",
+        "createdAt": "2022-11-15T21:27:26.966Z"
+    },
+    {
+        "score": null,
+        "subcategories": [],
+        "answer": "",
+        "id": "6374062695a2ae19d6030ee2",
+        "createdAt": "2022-11-15T21:35:34.460Z"
     }
 ]

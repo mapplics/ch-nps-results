@@ -75,8 +75,6 @@ const GraphSubcategories = (props: GraphProps) => {
 
     categories.sort((a, b) => b.total - a.total);
 
-    console.log(categories.filter(c => c.subcategories.length > 0));
-
     const CustomTooltip = ({ active, payload, label }: any) => {
         if (active && payload && payload.length) {
             const category: CategoryI = payload[0].payload;

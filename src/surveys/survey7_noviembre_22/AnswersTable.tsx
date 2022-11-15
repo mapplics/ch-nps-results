@@ -111,7 +111,7 @@ const AnswersTable = (props: AnswersTableProps) => {
                                 <td className="p-2 align-text-top text-left">
                                     {
                                         e.subcategories.map(s =>
-                                            (<p>- {s}</p>)
+                                            (<p key={s}>- {s}</p>)
                                         )
                                     }
                                 </td>

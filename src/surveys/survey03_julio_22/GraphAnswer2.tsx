@@ -25,12 +25,7 @@ const GraphAnswer2 = (props: GraphProps) => {
         option: e.option,
         count: 0,
         text: e.optionText,
-        color:
-          e.score === 9 || e.score === 10
-            ? "#15803c"
-            : e.option == "R"
-            ? "#ea5a0c"
-            : "#b91c1c",
+        color: e.score === 9 || e.score === 10 ? "#15803c" : "#b91c1c",
       };
       total.push(op);
     }
@@ -82,11 +77,7 @@ const GraphAnswer2 = (props: GraphProps) => {
             // paintOrder:"stroke"
           }}
         />
-        <XAxis
-          type="number"
-          dataKey="count"
-          domain={[0, Math.round((total[0].count * 10) / 7)]}
-        />
+        <XAxis type="number" dataKey="count" domain={[0, Math.round(total[0].count * 10/7)]} />
       </BarChart>
     </ResponsiveContainer>
   );

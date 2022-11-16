@@ -1,10 +1,5 @@
 import { useEffect, useState } from "react";
 import Highlighter from "react-highlight-words";
-import ReactSelect, {
-    components,
-    ControlProps,
-    defaultTheme,
-} from "react-select";
 import { AnswersTableProps, Nps7Answer } from "./Interfaces";
 
 const AnswersTable = (props: AnswersTableProps) => {
@@ -14,7 +9,7 @@ const AnswersTable = (props: AnswersTableProps) => {
 
     useEffect(() => {
         setAnswersFiltered(props.answers);
-    }, []);
+    }, [props]);
 
     const search = (str: string) => {
         setSearchTerm(str);

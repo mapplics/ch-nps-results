@@ -1,10 +1,5 @@
 import { useEffect, useState } from "react";
 import Highlighter from "react-highlight-words";
-import ReactSelect, {
-  components,
-  ControlProps,
-  defaultTheme,
-} from "react-select";
 import { AnswersTableProps, SurveyAnswer } from "./Interfaces";
 
 const AnswersTable = (props: AnswersTableProps) => {
@@ -14,7 +9,7 @@ const AnswersTable = (props: AnswersTableProps) => {
 
   useEffect(() => {
     setAnswersFiltered(props.answers);
-  }, []);
+  }, [props]);
 
   const options: { value: string; text: string }[] = [];
 
@@ -58,49 +53,9 @@ const AnswersTable = (props: AnswersTableProps) => {
     );
   };
 
-  const Option = (props: any) => {
-    console.log(props);
-    return (
-      <div>
-        <components.Option {...props}>
-          <input
-            type="checkbox"
-            checked={props.isSelected}
-            onChange={() => null}
-          />{" "}
-          <label>{props.data.text}</label>
-        </components.Option>
-      </div>
-    );
-  };
-  const ControlComponent = (props: ControlProps) => (
-    <components.Control
-      {...props}
-      className="text-gray-700 text-sm focus:ring-blue-500 focus:border-blue-500  w-80 "
-    />
-  );
-
   return (
     <div className="w-full mx-auto">
       <div className="flex justify-between mb-2">
-        {/* 
-        
-        <ReactSelect
-          className=""
-          options={options}
-          isMulti
-          closeMenuOnSelect={false}
-          hideSelectedOptions={false}
-          components={{
-            Option,
-            Control: ControlComponent,
-          }}
-          onChange={(value) => {
-            console.log(value);
-          }}
-          // value={this.state.optionSelected}
-        />        
-        */}
 
         <div className="relative  ">
           <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">

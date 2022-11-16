@@ -111,7 +111,7 @@ const GraphSubcategories = (props: GraphProps) => {
     return (
         <div className="my-6 grid grid-cols-6 gap-x-6 gap-y-12">
             {categories.filter(c => c.subcategories.length > 0).map((c) => (
-                <div className="col-span-2 flex flex-col justify-between" key={c.category}>
+                <div className="md:col-span-2 sm:col-span-3 col-span-6 flex flex-col justify-between" key={c.category}>
                     <p className="text-md font-medium px-2 py-2 col-span-12">
                         {c.category}
                     </p>

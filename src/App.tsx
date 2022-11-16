@@ -3,6 +3,7 @@ import { lazy, ReactElement, Suspense, useState } from "react";
 import Select from "react-select";
 import { Loading } from "./Loading";
 
+const Survey2Main = lazy(() => import("./surveys/survey02_junio_22/Survey2Main"));
 const Survey3Main = lazy(() => import("./surveys/survey03_julio_22/Survey3Main"));
 const Survey4Main = lazy(() => import("./surveys/survey04_agosto_22/Survey4Main"));
 const Survey5Main = lazy(() => import("./surveys/survey05_septiembre_22/Survey5Main"));
@@ -16,6 +17,7 @@ const App = () => {
         { value: 'nps5', label: 'NPS Septiembre 2022', component: <Survey5Main /> },
         { value: 'nps4', label: 'NPS Agosto 2022', component: <Survey4Main /> },
         { value: 'nps3', label: 'NPS Julio 2022', component: <Survey3Main /> },
+        { value: 'nps2', label: 'NPS Junio 2022', component: <Survey2Main /> },
     ];
 
     const [selectedSurvey, setSelectedSurvey] = useState(surveys[0]);

@@ -1,7 +1,6 @@
 import {
     Bar,
     BarChart,
-    Cell,
     ResponsiveContainer,
     Tooltip,
     XAxis,

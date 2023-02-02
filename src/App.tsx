@@ -8,13 +8,15 @@ const Survey3Main = lazy(() => import("./surveys/survey03_julio_22/Survey3Main")
 const Survey4Main = lazy(() => import("./surveys/survey04_agosto_22/Survey4Main"));
 const Survey5Main = lazy(() => import("./surveys/survey05_septiembre_22/Survey5Main"));
 const Survey6Main = lazy(() => import('./surveys/survey06_octubre_22/Survey6Main'));
-const Survey7Main = lazy(() => import('./surveys/survey07_noviembre_22/Survey7Main'));
+const Survey7November = lazy(() => import('./surveys/survey07_noviembre_22/Survey7Main'));
 const Survey7DecemberMain = lazy(() => import('./surveys/survey07_diciembre_22/Survey7Main'));
+const Survey7JanuaryMain = lazy(() => import('./surveys/survey07_enero_23/Survey7Main'));
 
 const App = () => {
     const surveys: { value: string, label: string, component: ReactElement }[] = [
+        { value: 'nps7', label: 'NPS Enero 2023', component: <Survey7JanuaryMain /> },
         { value: 'nps7', label: 'NPS Diciembre 2022', component: <Survey7DecemberMain /> },
-        { value: 'nps7', label: 'NPS Noviembre 2022', component: <Survey7Main /> },
+        { value: 'nps7', label: 'NPS Noviembre 2022', component: <Survey7November /> },
         { value: 'nps6', label: 'NPS Octubre 2022', component: <Survey6Main /> },
         { value: 'nps5', label: 'NPS Septiembre 2022', component: <Survey5Main /> },
         { value: 'nps4', label: 'NPS Agosto 2022', component: <Survey4Main /> },

@@ -4,7 +4,7 @@ import GraphScore from "./GraphScore";
 import GraphSubcategories from "./GraphSubcategories";
 import { Nps7Answer } from "./Interfaces";
 
-const answers: Nps7Answer[] = require("./nps_diciembre_2022.json");
+const answers: Nps7Answer[] = require("./nps_noviembre_2022.json");
 
 const Survey7Main = () => {
 
@@ -29,7 +29,7 @@ const Survey7Main = () => {
         <div className="max-w-screen-md lg:max-w-screen-lg mx-auto bg-gray-50 p-3">
             <div className="w-full py-5 px-4 text-gray-700 relative">
                 <div className="w-full pb-4 text-2xl font-bold text-gray-700">
-                    CODERHOUSE APP - NPS Diciembre 2022
+                    CODERHOUSE APP - NPS Enero 2023
                 </div>
 
                 <table className=" text-sm text-left text-gray-700 sm:col-span-4 col-span-12 sm:col-start-8 col-start-1">
@@ -53,7 +53,7 @@ const Survey7Main = () => {
                 </table>
                 
                 <div className="absolute right-0 top-0 text-xs">
-                    Actualizado: 2/1/2023 11:04
+                    Actualizado: 2/2/2023 10:38
                 </div>
                 
             </div>

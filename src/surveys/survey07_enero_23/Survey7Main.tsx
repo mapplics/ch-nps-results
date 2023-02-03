@@ -4,7 +4,7 @@ import GraphScore from "./GraphScore";
 import GraphSubcategories from "./GraphSubcategories";
 import { Nps7Answer } from "./Interfaces";
 
-const answers: Nps7Answer[] = require("./nps_noviembre_2022.json");
+const answers: Nps7Answer[] = require("./nps_enero_2023.json");
 
 const Survey7Main = () => {
 

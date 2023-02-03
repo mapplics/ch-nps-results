@@ -1,0 +1,29 @@
+[{
+        "score": 3,
+        "category": "Es difícil encontrar lo que busco",
+        "answer": "test",
+        "id": "63dd27a2c0f53b5422259343",
+        "createdAt": "2023-02-03T15:26:26.193Z"
+    },
+    {
+        "score": 4,
+        "category": "No entiendo el Inicio",
+        "answer": "test",
+        "id": "63dd27d2c0f53b542225934d",
+        "createdAt": "2023-02-03T15:27:14.009Z"
+    },
+    {
+        "score": 3,
+        "category": "No me llegan las notificaciones",
+        "answer": "asd",
+        "id": "63dd2806c0f53b5422259357",
+        "createdAt": "2023-02-03T15:28:06.887Z"
+    },
+    {
+        "score": 10,
+        "category": "Es fácil de usar",
+        "answer": "Prueba en qa",
+        "id": "63dd2892c0f53b5422259361",
+        "createdAt": "2023-02-03T15:30:26.015Z"
+    }
+]

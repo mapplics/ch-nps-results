@@ -25,5 +25,40 @@
         "answer": "Prueba en qa",
         "id": "63dd2892c0f53b5422259361",
         "createdAt": "2023-02-03T15:30:26.015Z"
+    },
+    {
+        "score": 9,
+        "category": "Otros",
+        "answer": "Prueba de 9 y otros",
+        "id": "63dd3733c0f53b54222593be",
+        "createdAt": "2023-02-03T16:32:51.581Z"
+    },
+    {
+        "score": 8,
+        "category": "Nada, me gusta",
+        "answer": "Test 8 y nada me gusta",
+        "id": "63dd376bc0f53b54222593c2",
+        "createdAt": "2023-02-03T16:33:47.156Z"
+    },
+    {
+        "score": 7,
+        "category": "No me llegan las notificaciones",
+        "answer": "Testi 7 y no me llegan las notificaciones",
+        "id": "63dd3790c0f53b54222593c6",
+        "createdAt": "2023-02-03T16:34:24.077Z"
+    },
+    {
+        "score": 6,
+        "category": "Hay caídas o lentitud en la App",
+        "answer": "Test 6 y hay caidas y lentitud de la app",
+        "id": "63dd37a9c0f53b54222593ca",
+        "createdAt": "2023-02-03T16:34:49.033Z"
+    },
+    {
+        "score": 2,
+        "category": "No entiendo el Inicio",
+        "answer": "Test 2 y no entiendo el inicio",
+        "id": "63dd37b8c0f53b54222593ce",
+        "createdAt": "2023-02-03T16:35:04.637Z"
     }
 ]

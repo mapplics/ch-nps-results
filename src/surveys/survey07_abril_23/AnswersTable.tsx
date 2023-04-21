@@ -44,10 +44,10 @@ const AnswersTable = (props: AnswersTableProps) => {
 
 
     return (
-        <div className="w-full mx-auto">
+        <div className="mx-auto">
             <div className="flex justify-between mb-2">
 
-                <div className="relative  ">
+                <div className="relative">
                     <div className="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none">
                         <svg
                             className="w-5 h-5 text-gray-700"
@@ -76,14 +76,18 @@ const AnswersTable = (props: AnswersTableProps) => {
                     </p>
                 </div>
             </div>
-            <div className="inline-block rounded-lg border shadow-sm w-full">
-                <table className="w-full text-sm text-left text-gray-700">
+            
+            <div className="rounded-lg border shadow-sm ">
+                <table className="table-fixed w-full text-sm text-left text-gray-700">
                     <thead className="text-xs text-gray-700 bg-gray-100 ">
                         <tr>
-                            <th scope="col" className="text-sm font-medium px-2 py-2 w-8">
+                            <th scope="col" className="text-sm font-medium px-2 py-2 w-24">
                                 <button onClick={sort}>Puntaje</button>
                             </th>
-                            <th scope="col" className="text-sm font-medium px-2 py-2 w-52">
+                            <th scope="col" className="text-sm font-medium px-2 py-2 w-24">
+                                App Version
+                            </th>
+                            <th scope="col" className="text-sm font-medium px-2 py-2 w-64">
                                 Categoría
                             </th>
                             <th scope="col" className="text-sm font-medium px-2 py-2">
@@ -91,15 +95,15 @@ const AnswersTable = (props: AnswersTableProps) => {
                             </th>
                         </tr>
                     </thead>
-                    <tbody>
+                    <tbody className="w-64">
                         {answersFiltered.map((e) => (
                             <tr
                                 className="bg-white text-gray-700 border-b text-justify hover:bg-gray-100"
                                 key={e.id}
                             >
                                 <td className="p-2 font-bold text-center align-text-top">{e.score}</td>
+                                <td className="p-2 align-text-top text-left">{e.appVersion}</td>
                                 <td className="p-2 align-text-top text-left">{e.category}</td>
-
                                 <td className="p-2 align-text-top text-left">
                                     <Highlighter
                                         searchWords={[searchTerm]}

@@ -22,7 +22,7 @@ const Survey7SeptemberMain = lazy(() => import('./surveys/survey07_september_23/
 
 const App = () => {
     const surveys: { value: string, label: string, component: ReactElement }[] = [
-        { value: 'nps7', label: 'NPS September 2023', component: <Survey7SeptemberMain /> },
+        { value: 'nps7', label: 'NPS Septiembre 2023', component: <Survey7SeptemberMain /> },
         { value: 'nps7', label: 'NPS Agosto 2023', component: <Survey7AgostMain /> },
         { value: 'nps7', label: 'NPS Julio 2023', component: <Survey7JulyMain /> },
         { value: 'nps7', label: 'NPS Junio 2023', component: <Survey7JuneMain /> },

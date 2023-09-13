@@ -28,7 +28,7 @@ const Survey7Main = () => {
         <div className="max-w-screen-md lg:max-w-screen-lg mx-auto bg-gray-50 p-3">
             <div className="w-full py-5 px-4 text-gray-700 relative">
                 <div className="w-full pb-4 text-2xl font-bold text-gray-700">
-                    CODERHOUSE APP - NPS Julio 2023
+                    CODERHOUSE APP - NPS Agosto 2023
                 </div>
 
                 <table className=" text-sm text-left text-gray-700 sm:col-span-4 col-span-12 sm:col-start-8 col-start-1">

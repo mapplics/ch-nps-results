@@ -17,9 +17,11 @@ const Survey7AbrilMain = lazy(() => import('./surveys/survey07_abril_23/Survey7M
 const Survey7MayMain = lazy(() => import('./surveys/survey07_may_23/Survey7Main'));
 const Survey7JuneMain = lazy(() => import('./surveys/survey07_june_23/Survey7Main'));
 const Survey7JulyMain = lazy(() => import('./surveys/survey07_july_23/Survey7Main'));
+const Survey7AgostMain = lazy(() => import('./surveys/survey07_agost_23/Survey7Main'));
 
 const App = () => {
     const surveys: { value: string, label: string, component: ReactElement }[] = [
+        { value: 'nps7', label: 'NPS Agosto 2023', component: <Survey7AgostMain /> },
         { value: 'nps7', label: 'NPS Julio 2023', component: <Survey7JulyMain /> },
         { value: 'nps7', label: 'NPS Junio 2023', component: <Survey7JuneMain /> },
         { value: 'nps7', label: 'NPS Mayo 2023', component: <Survey7MayMain /> },
